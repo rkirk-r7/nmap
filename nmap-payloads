@@ -332,12 +332,6 @@ udp 9987
 udp 11211
 "\0\x01\0\0\0\x01\0\0version\r\n"
 
-
-# ECHO RAPID7
-udp 7
-  "\x72"
-  "\x61\x70\x69\x64\x37"
-
 # DNS VER
 udp 53
   "\x77\x77\x01\x00\x00\x01\x00\x00\x00\x00\x00\x00"
